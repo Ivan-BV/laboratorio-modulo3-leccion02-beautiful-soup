@@ -1,0 +1,1 @@
+url = "https://atrezzovazquez.es/shop.php?search_type=-1&search_terms=&limit=48&page="
